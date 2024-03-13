@@ -32,18 +32,19 @@ I'm a passionate MERN stack developer from [Coimbatore]. Here's a little about m
 
 
 
-- Frontend: HTML, CSS, JavaScript, React.js, Redux
+- Frontend: HTML, CSS, JavaScript, React.js, Redux,React Query
 - Backend: Node.js, Express.js, MongoDB, RESTful APIs
 - Database: MongoDB, MySql
 - Version Control: Git, GitHub
 
 ## Projects
 
-- [Project ](https://www.lokimerndeveloper.me) - Short description.
+- [Project ](https://www.lokimerndeveloper.me) - Developed a Hotel Management Web App and Published with my custom Domain with End-to-End test Mode
+- .
 
 
 ## Connect with Me
-
+-[Instagram](https://www.instagram.com/_xx_kiddo_xx_)
 
 - [LinkedIn](https://www.linkedin.com/in/logesh2402)
 
