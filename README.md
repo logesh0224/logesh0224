@@ -1,4 +1,5 @@
-![MERN Stack Developer]
+![Your Profile Banner](https://blog.planview.com/wp-content/uploads/2020/01/Top-6-Software-Development-Methodologies.jpg)
+
 
 # Hello, I'm [Logesh Boopathi S] 👋
 
