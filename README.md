@@ -21,14 +21,20 @@ I'm a passionate MERN stack developer from [Coimbatore]. Here's a little about m
 ![Expressjs](https://img.icons8.com/?size=50&id=kg46nzoJrmTR&format=png)
 ![nodejs](https://img.icons8.com/?size=48&id=54087&format=png)
 ![Mongodb](https://img.icons8.com/?size=48&id=74402&format=png)
-![mysql](https://img.icons8.com/?size=100&id=Py-drGxkGEEr&format=png)
+![mysql](https://img.icons8.com/?size=48&id=UFXRpPFebwa2&format=png)
 ![DevTools](https://img.icons8.com/?size=64&id=z776U00C7sTg&format=png)
 ![VsCode](https://img.icons8.com/?size=64&id=TP9RR7DE1AuH&format=png)
+![java](https://img.icons8.com/?size=48&id=13679&format=png)
+![source](https://img.icons8.com/?size=48&id=IIAazU9qoGg5&format=png)
+![](https://img.icons8.com/?size=48&id=ZyAISIn5r5QJ&format=png)
+![Debugging](https://img.icons8.com/?size=48&id=GW7KLZoMQEnt&format=png)
+
+
 
 
 - Frontend: HTML, CSS, JavaScript, React.js, Redux
 - Backend: Node.js, Express.js, MongoDB, RESTful APIs
-- Database: MongoDB, Mongoose
+- Database: MongoDB, MySql
 - Version Control: Git, GitHub
 
 ## Projects
