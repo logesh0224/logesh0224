@@ -1,4 +1,4 @@
-
+![Banner](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 
 # Hello, I'm [Logesh Boopathi S] 👋
@@ -39,7 +39,7 @@
 
 ## Projects
 
-![Here is my Project](https://img.icons8.com/?size=24&id=88446&format=png)[My Project](https://www.lokimerndeveloper.me) -Developed a MERN stack hotel management web app
+![Here is my Project](https://img.icons8.com/?size=48&id=113359&format=png) -[My Project](https://www.lokimerndeveloper.me) -Developed a MERN stack hotel management web app
 allowing users to add, edit, and search hotels, with filter
 options. Integrated Stripe for secure payment processing
 and Cloudinary for image management. Conducted end-to-end testing using Playwright Automation testing tool,.
@@ -47,16 +47,22 @@ Successfully deployed the app on render.com and hosted
 with My custom Domain
 
 
+
 ## Connect with Me
-![Instagram](https://img.icons8.com/?size=48&id=Xy10Jcu1L2Su&format=png)[click here](https://www.instagram.com/_xx_kiddo_xx_)
 
-![LinkedIn](https://img.icons8.com/?size=48&id=xuvGCOXi8Wyg&format=png)[Click here](https://www.linkedin.com/in/logesh2402)
-
-![GitHub](https://img.icons8.com/?size=24&id=106567&format=png)[click here](https://github.com/logesh0224)
+[![Instagram](https://img.icons8.com/?size=48&id=Xy10Jcu1L2Su&format=png)](https://www.instagram.com/_xx_kiddo_xx_) [![LinkedIn](https://img.icons8.com/?size=48&id=xuvGCOXi8Wyg&format=png)](https://www.linkedin.com/in/logesh2402) [![GitHub](https://img.icons8.com/?size=48&id=106440&format=png)](https://github.com/logesh0224)
 
 
 
 
 ## 📊 GitHub Stats
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=logesh0224&show_icons=true&theme=radical)
+
+![Logesh Boopathi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=logesh0224&show_icons=true&theme=radical)
+
+![Logesh Boopathi's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=logesh0224&layout=compact&theme=radical)
+
+[![GitHub followers](https://img.shields.io/github/followers/logesh0224?label=Follow&style=social)](https://github.com/logesh0224)
+
+[![GitHub](https://img.shields.io/github/followers/logesh0224?label=repositories&style=social)](https://github.com/logesh0224)
+
 
