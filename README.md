@@ -8,8 +8,8 @@ I'm a passionate MERN stack developer from [Coimbatore]. Here's a little about m
 
 - 👯 I’m looking to collaborate on open source projects related to MERN stack.
 - 💬 Ask me about JavaScript, React.js, Node.js, MongoDB, or anything tech-related.
-- 📫 How to reach me: [logeshboopathi72@gmail.com](mail to:logeshboopathi72@gmail.com)
-- 😄 Pronouns: He/Him
+- 📫 How to reach me: [Here..](mail to:logeshboopathi72@gmail.com)
+  
 - ⚡ Fun fact: [A bug in my Code is not problem in my life]
 
 ## Skills
@@ -39,13 +39,24 @@ I'm a passionate MERN stack developer from [Coimbatore]. Here's a little about m
 
 ## Projects
 
-- [Project ](https://www.lokimerndeveloper.me) - Developed a Hotel Management Web App and Published with my custom Domain with End-to-End test Mode
-- .
+- [Here is my Project](https://www.lokimerndeveloper.me) -Developed a MERN stack hotel management web app
+allowing users to add, edit, and search hotels, with filter
+options. Integrated Stripe for secure payment processing
+and Cloudinary for image management. Conducted end-to-end testing using Playwright Automation testing tool,.
+Successfully deployed the app on render.com and hosted
+with My custom Domain
 
 
 ## Connect with Me
--[Instagram](https://www.instagram.com/_xx_kiddo_xx_)
+![Instagram](https://img.icons8.com/?size=48&id=Xy10Jcu1L2Su&format=png)[click here](https://www.instagram.com/_xx_kiddo_xx_)
 
-- [LinkedIn](https://www.linkedin.com/in/logesh2402)
+![LinkedIn](https://img.icons8.com/?size=48&id=xuvGCOXi8Wyg&format=png)[Click here](https://www.linkedin.com/in/logesh2402)
 
-- [GitHub](https://github.com/logesh0224)
+![GitHub](https://img.icons8.com/?size=24&id=106567&format=png)[click here](https://github.com/logesh0224)
+
+
+
+
+## 📊 GitHub Stats
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=logesh0224&show_icons=true&theme=radical)
+
