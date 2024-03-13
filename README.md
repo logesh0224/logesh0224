@@ -1,17 +1,16 @@
-![Your Profile Banner](https://blog.planview.com/wp-content/uploads/2020/01/Top-6-Software-Development-Methodologies.jpg)
+
 
 
 # Hello, I'm [Logesh Boopathi S] 👋
 
-I'm a passionate MERN stack developer from [Coimbatore]. Here's a little about me:
+### 1 I'm a passionate MERN stack developer from [Coimbatore]. Here's a little about me:
 
-- 🔭 I’m currently working on building scalable web applications using MERN stack.
+### 2🔭 I’m currently working on building scalable web applications using MERN stack.
 
-- 👯 I’m looking to collaborate on open source projects related to MERN stack.
-- 💬 Ask me about JavaScript, React.js, Node.js, MongoDB, or anything tech-related.
-- 📫 How to reach me: [Here..](mail to:logeshboopathi72@gmail.com)
-  
-- ⚡ Fun fact: [A bug in my Code is not problem in my life]
+### 3👯 I’m looking to collaborate on open source projects related to MERN stack.
+### 4💬 Ask me about JavaScript, React.js, Node.js, MongoDB, or anything tech-related.
+### 5📫 How to reach me: [Here..](mail to:logeshboopathi72@gmail.com)
+### 6⚡ Fun fact: [A bug in my Code is not problem in my life]
 
 ## Skills
 
