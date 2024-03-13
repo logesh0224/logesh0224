@@ -39,7 +39,7 @@
 
 ## Projects
 
-- [Here is my Project](https://www.lokimerndeveloper.me) -Developed a MERN stack hotel management web app
+![Here is my Project](https://img.icons8.com/?size=24&id=88446&format=png)[My Project](https://www.lokimerndeveloper.me) -Developed a MERN stack hotel management web app
 allowing users to add, edit, and search hotels, with filter
 options. Integrated Stripe for secure payment processing
 and Cloudinary for image management. Conducted end-to-end testing using Playwright Automation testing tool,.
