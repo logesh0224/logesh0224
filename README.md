@@ -15,7 +15,7 @@ I'm a passionate MERN stack developer from [Coimbatore]. Here's a little about m
 ## Skills
 
 ![JavaScript]()
-![React.js](https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png)
+![React.js](https://img.icons8.com/?size=64&id=SB6eApJMkq1S&format=png)
 
 - Frontend: HTML, CSS, JavaScript, React.js, Redux
 - Backend: Node.js, Express.js, MongoDB, RESTful APIs
