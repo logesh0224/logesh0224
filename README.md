@@ -10,7 +10,7 @@
 ### 3👯 I’m looking to collaborate on open source projects related to MERN stack.
 ### 4💬 Ask me about JavaScript, React.js, Node.js, MongoDB, or anything tech-related.
 ### 5📫 How to reach me: [Here..](mail to:logeshboopathi72@gmail.com)
-### 6⚡ Fun fact: [A bug in my Code is not problem in my life]
+### 6⚡ Fun fact: [A bug in my Code Can't create a Bug in my Life]
 
 ## Skills
 
