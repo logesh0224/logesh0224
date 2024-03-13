@@ -17,6 +17,14 @@ I'm a passionate MERN stack developer from [Coimbatore]. Here's a little about m
 ![JavaScript](https://img.icons8.com/?size=48&id=PXTY4q2Sq2lG&format=png)
 ![React.js](https://img.icons8.com/?size=64&id=123609&format=png)
 ![Html](https://img.icons8.com/?size=48&id=v8RpPQUwv0N8&format=png)
+![css](https://img.icons8.com/?size=48&id=x7XMNGh2vdqA&format=png)
+![Expressjs](https://img.icons8.com/?size=50&id=kg46nzoJrmTR&format=png)
+![nodejs](https://img.icons8.com/?size=48&id=54087&format=png)
+![Mongodb](https://img.icons8.com/?size=48&id=74402&format=png)
+![mysql](https://img.icons8.com/?size=100&id=Py-drGxkGEEr&format=png)
+![DevTools](https://img.icons8.com/?size=64&id=z776U00C7sTg&format=png)
+![VsCode](https://img.icons8.com/?size=64&id=TP9RR7DE1AuH&format=png)
+
 
 - Frontend: HTML, CSS, JavaScript, React.js, Redux
 - Backend: Node.js, Express.js, MongoDB, RESTful APIs
