@@ -1,16 +1,35 @@
-### Hi there 👋
+![MERN Stack Developer]
 
-<!--
-**logesh0224/logesh0224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm [Logesh Boopathi S] 👋
 
-Here are some ideas to get you started:
+I'm a passionate MERN stack developer from [Coimbatore]. Here's a little about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on building scalable web applications using MERN stack.
+
+- 👯 I’m looking to collaborate on open source projects related to MERN stack.
+- 💬 Ask me about JavaScript, React.js, Node.js, MongoDB, or anything tech-related.
+- 📫 How to reach me: [logeshboopathi72@gmail.com](mail to:logeshboopathi72@gmail.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: [A bug in my Code is not problem in my life]
+
+## Skills
+
+![JavaScript](https://github.com/voodootikigod/logo.js/blob/master/js.gif)
+![React.js]
+
+- Frontend: HTML, CSS, JavaScript, React.js, Redux
+- Backend: Node.js, Express.js, MongoDB, RESTful APIs
+- Database: MongoDB, Mongoose
+- Version Control: Git, GitHub
+
+## Projects
+
+- [Project ](https://www.lokimerndeveloper.me) - Short description.
+
+
+## Connect with Me
+
+
+- [LinkedIn](https://www.linkedin.com/in/logesh2402)
+
+- [GitHub](https://github.com/logesh0224)
