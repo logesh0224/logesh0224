@@ -50,7 +50,7 @@ with My custom Domain
 
 ## Connect with Me
 
-[![Instagram](https://img.icons8.com/?size=48&id=Xy10Jcu1L2Su&format=png)](https://www.instagram.com/_xx_kiddo_xx_) [![LinkedIn](https://img.icons8.com/?size=48&id=xuvGCOXi8Wyg&format=png)](https://www.linkedin.com/in/logesh2402) [![GitHub](https://img.icons8.com/?size=48&id=106440&format=png)](https://github.com/logesh0224)
+[![Instagram](https://img.icons8.com/?size=48&id=Xy10Jcu1L2Su&format=png)](https://www.instagram.com/xx_kiddo_xx_) [![LinkedIn](https://img.icons8.com/?size=48&id=xuvGCOXi8Wyg&format=png)](https://www.linkedin.com/in/logesh2402) [![GitHub](https://img.icons8.com/?size=48&id=106440&format=png)](https://github.com/logesh0224)
 
 
 
